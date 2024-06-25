@@ -1,0 +1,24 @@
+DBMS Question
+1. What is DBMS
+2. what is DataBase (organized, consistent, and logical collection of data that can easily be updated, accessed, and managed.)
+3. DDL commands are for the structure of the table.
+4. DML commands are for the data inside the tables.
+5. DCL commands are for permissions and controls for the database.
+6. ACID properties.
+7. NULL values.
+8. ER model.
+9. Normalization and Denormalization.
+10. What is lock.
+11. Delete and Truncate.
+12. What is OLTP (Insert Update and Delete [Normalization]) and OLAP (Select etc [Denormalization]).
+
+13. 1st Normal Forms (Table's columns should have a Atomic Value not a group values Ex. F.Name,M.Name, and L.Name should have 3 different columns).
+14. 2nd Normal Forms(should have the 1st NF and all non-key columns should be fully dependent on the primary key).
+15. 3rd Normal Forms (should have the 1st and 2nd NF and we should not have any transient dependency).
+
+16. Primary(Not NULL and only One) and Unique keys(can have NULL and N numbers).
+17. Char & varchar, char & Nchar.
+18. What is the use of index.
+19. What are the two types of indexes (clustered and Non-clustered).
+20. What are triggers and why do you need it.
+21. 
